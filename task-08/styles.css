@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background-color: #073041;
+}
+
+h1 {
+  font-size: 8rem;
+  font-family: 'Abril Fatface', cursive;
+  color: #DBEDF3;
+  text-shadow: 8px 0 #DA0463;
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 5px 6px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #0f050f;
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 5px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.w{
+  font-family: 'Concert One', cursive;
+  background-color:rgb(219, 155, 120);
+  box-shadow: 10px 5px 5px #f3e84a;
+}
+.a{
+  font-family: 'Concert One', cursive;
+  background-color: rgb(127, 219, 120);
+  box-shadow: 10px 5px 5px #f3e84a;
+}
+.s{
+  font-family: 'Concert One', cursive;
+  background-color: rgb(127, 219, 120);
+  box-shadow: 10px 5px 5px #f3e84a;
+}
+.j{
+  font-family: 'Concert One', cursive;
+  background-color: rgb(127, 219, 120);
+  box-shadow: 10px 5px 5px#f3e84a;
+}
+.d{
+  font-family: 'Concert One', cursive;
+  background-color: rgb(219, 155, 120);
+  box-shadow: 10px 5px 5px #f3e84a;
+}
+.k{
+  font-family: 'Concert One', cursive;
+  background-color: rgb(127, 219, 120);
+  box-shadow: 10px 5px 5px #f3e84a;
+}
+.l{
+  font-family: 'Concert One', cursive;
+  background-color: rgb(219, 155, 120);
+  box-shadow: 10px 5px 5px #f3e84a;
+}

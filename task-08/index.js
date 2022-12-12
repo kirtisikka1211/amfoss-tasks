@@ -1,0 +1,14 @@
+var crash= new Audio();
+crash.src ="sounds/crash.mp3";
+var kick= new Audio();
+kick.src ="sounds/kick-bass.mp3"
+var tom=new Audio();
+tom.src="sounds/tom-1.mp3"
+var tom2=new Audio();
+tom2.src="sounds/tom-2.mp3"
+var tom3= new Audio();
+tom3.src="sounds/tom-3.mp3"
+var tom4= new Audio();
+tom4.src="sounds/tom-4.mp3"
+var snare= new Audio();
+snare.src="sounds/snare.mp3"
