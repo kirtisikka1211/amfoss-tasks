@@ -1,8 +1,8 @@
 # AmfossTasks
-| First Header  | Second Header |
+| Tasks         | Discription   |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Task-00  | ubuntu or homebrew |
+| Task-01  | Starring repoes  |
 
 
 
