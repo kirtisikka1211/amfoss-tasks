@@ -12,8 +12,7 @@ leading to excellence.
 
 
 ## How would you contribute back to the club?
-I will 
-
+I would contribute by adding my  learnings  and experiences in all spheres and simentaneously learn and share more.
 
 ## Do you have any feedback on the selection process?
 The selection process contains tasks covering a large area.I was introduced to more new topics and have become a tad better in googling and coding also.
