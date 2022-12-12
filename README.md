@@ -16,7 +16,7 @@
 | [Task-11]       | Figma           |Pending|
  | [Task-12]       | Bunny Heist          |Not Attempted|
 | [Task-13]       | Football Counter           |Not Attempted|
-| [Task-14]       | Bandit            |Completed|
+| [Task-14](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-14)       | Bandit            |Completed|
 | [Task-15]       | Project Euler          |Pending|
 
 
