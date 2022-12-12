@@ -15,5 +15,4 @@ leading to excellence.
 I would contribute by adding my  learnings  and experiences in all spheres and simentaneously learn and share more.
 
 ## Do you have any feedback on the selection process?
-The selection process contains tasks covering a large area.I was introduced to more new topics and have become a tad better in googling and coding also.
-As I used to belong to a non cs background , I have learnt many things just by attempting tasks.
+The selection process which covers new and vast areas have actually helped me to know my potential in a far better way in terms of learning ,exploring and finding new things.As I used to belong to a non cs background , I have learnt many things just by attempting tasks.
