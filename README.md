@@ -1,7 +1,7 @@
 # AmfossTasks
 | Tasks         | Discription                 | Status        |
 | ------------- | ----------------------      |------------------|
-| Task-00(https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-00)  | ubuntu or homebrew |Compeleted|
+| [Task-00](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-00)  | ubuntu or homebrew |Compeleted|
 | Task-01       | Starring repoes     |Compeleted|
 | Task-02       | Terminal Hunt      |Compeleted|
 | Task-03       | Programming        |Not attempted|
