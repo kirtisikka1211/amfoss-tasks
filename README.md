@@ -12,7 +12,11 @@
 | [Task-08](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-08)        | Internet Explorer |Compeleted|
 | [Task-09](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-09)      | Kryptoscrapper    |Compeleted|
 |[Task-10](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-10)        | Cs50              |Compeleted|
-| [Task-13]       | Bandit            |Compeleted|
+| [Task-11]       | Figma           |Compeleted|
+ | [Task-12]       | Bunny Heist          |Compeleted|
+| [Task-13]       | Football Counter           |Compeleted|
+| [Task-14]       | Bandit            |Compeleted|
+| [Task-15]       | Project Euler          |Compeleted|
 
 
 
