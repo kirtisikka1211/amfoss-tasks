@@ -31,4 +31,8 @@ Example: rmdir “path/to/directory”
 *git checkout <branch_name>*-you can switch your branch to this by git checkout branch_nam
 *git merge <branch_name>*-use git merge and specify the name of the other branch to merge  into this branch. 
 *`rm part1.txt part2.txt part3.txt part4.txt`* To remove files.
-[!screen](https://github.com/kirtisikka1211/amfoss-tasks/blob/main/task-02/Screenshot%202022-12-13%20at%208.08.09%20PM.png)
+
+
+<img width="553" alt="Screenshot 2022-12-13 at 11 57 07 PM" src="https://user-images.githubusercontent.com/116485331/207415230-195c9c42-14ab-40cd-97e1-e3f42062b33c.png">
+
+
