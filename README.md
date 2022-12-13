@@ -28,7 +28,7 @@ My name is Kirti Sikka.I am fresher at  Amrita School of Engineering(Cse -Ai)
 | Task-15       | Project Euler          |Pending|
 
 
-## *About My Tasks*
+## **About My Tasks**
 The tasks were structured to cover many fields.Honestly,I found some of the tasks tough and some way easy.Though I was not able to complete all of them,but it was a emotional rollercoaster .First I was very excited to attempt the tasks, then eventually I got anxious,I could feel the pressure, the frustation of getting stuck by just a space or a comma was dreadful.I got an exposure to different areas that I was not even aware of,and found my hidden intrests in coding.At the end ,I would just like to say it was a good opportunity to learn more.
 
 
