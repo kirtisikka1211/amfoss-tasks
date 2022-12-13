@@ -1,5 +1,5 @@
 # AmfossTasks
-| Tasks         | Discription                 | Status        |
+| Tasks         | Description                 | Status        |
 | ------------- | ----------------------      |------------------|
 |[Introspection](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/introspection)|.                              |                 |
 | [Task-00](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-00)  | ubuntu or homebrew |Compeleted|
