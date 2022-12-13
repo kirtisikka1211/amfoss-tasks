@@ -1,0 +1,15 @@
+/Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/deps/markup5ever-856a0c21b8c0d2ac.rmeta: /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out/generated.rs /Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out/named_entities.rs
+
+/Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/deps/markup5ever-856a0c21b8c0d2ac.d: /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs /Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs /Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out/generated.rs /Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out/named_entities.rs
+
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/lib.rs:
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/data/mod.rs:
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/mod.rs:
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/interface/tree_builder.rs:
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/serialize.rs:
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/buffer_queue.rs:
+/Users/kirtisikka/.cargo/registry/src/github.com-1ecc6299db9ec823/markup5ever-0.10.1/util/smallcharset.rs:
+/Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out/generated.rs:
+/Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/kirtisikka/Desktop/amfoss-tasks/task-09/target/debug/build/markup5ever-4328011def990d2c/out
