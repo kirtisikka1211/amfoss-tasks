@@ -33,7 +33,7 @@ The tasks were structured to cover many fields.Honestly,I found some of the task
 
 
 ## **Who am I?**
-I am Kirti Sikka .I am from Noida,UP.As I belonged  to a non cs-background(bio),I had no idea about engeneering and also I hated it.The irony of life!,I somehow ended up enrolling in the same course and unfortunately developed more intrest in it. The best thing I like about coding is I dont have to mug things up.The tasks actually made me more invested and curious about it.
+I am Kirti Sikka .I am from Noida,UP.As I belonged  to a non cs-background(bio),I had no idea about engeneering and also I hated it.The irony of life!,I somehow ended up enrolling in the same course and fortunately developed more intrest in it. The best thing I like about coding is I dont have to mug things up.The tasks actually made me more invested and curious about it.
 
 
 
