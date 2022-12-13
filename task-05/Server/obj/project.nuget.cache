@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nO4IsTG/zmJYzaGpS5RRSXl7nWFnrRNjKnU1fvj+5OZtO80ZUlsULlozP39+L16LnRP5dKamTd7y3fS5XVtQGA==",
+  "dgSpecHash": "B5etEuBQpWZlcG1hvKzhiKiZ+Rg8raL5kTt6UyYIYZ/jMQ1aDC4MyxJxEiyrpiCkudqxyCL1TPFMwwcZqy8uFg==",
   "success": true,
-  "projectFilePath": "/Users/kirtisikka/Desktop/tasks/task-05/Server/Server.csproj",
+  "projectFilePath": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Server/Server.csproj",
   "expectedPackageFiles": [
     "/Users/kirtisikka/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/Users/kirtisikka/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",

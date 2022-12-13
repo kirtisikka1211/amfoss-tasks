@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kirtisikka/Desktop/tasks/task-05/Client/Client.csproj": {}
+    "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Client/Client.csproj": {}
   },
   "projects": {
-    "/Users/kirtisikka/Desktop/tasks/task-05/Client/Client.csproj": {
+    "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kirtisikka/Desktop/tasks/task-05/Client/Client.csproj",
+        "projectUniqueName": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/Users/kirtisikka/Desktop/tasks/task-05/Client/Client.csproj",
+        "projectPath": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Client/Client.csproj",
         "packagesPath": "/Users/kirtisikka/.nuget/packages/",
-        "outputPath": "/Users/kirtisikka/Desktop/tasks/task-05/Client/obj/",
+        "outputPath": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kirtisikka/.nuget/NuGet/NuGet.Config"

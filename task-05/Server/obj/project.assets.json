@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kirtisikka/Desktop/tasks/task-05/Server/Server.csproj",
+      "projectUniqueName": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Server/Server.csproj",
       "projectName": "Server",
-      "projectPath": "/Users/kirtisikka/Desktop/tasks/task-05/Server/Server.csproj",
+      "projectPath": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Server/Server.csproj",
       "packagesPath": "/Users/kirtisikka/.nuget/packages/",
-      "outputPath": "/Users/kirtisikka/Desktop/tasks/task-05/Server/obj/",
+      "outputPath": "/Users/kirtisikka/Desktop/amfoss-tasks/task-05/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kirtisikka/.nuget/NuGet/NuGet.Config"
