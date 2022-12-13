@@ -8,11 +8,14 @@
 
 
 *Command: cp*-his command facilitates copying a file from one location to another, or just simply making a copy of the same file with a new name. 
-**cp “filename” “newfilename”**
+               **cp “filename” “newfilename”**
 *Command: mv*-This command will move a file from one location to another, 
-mv “filename” “path/to/new/file/location”
-*Command: touch*-The touch command allows you to create any type of file, but it’s blank. After you create the blank file. so **touch part1.txt** 
-*Command: echo*-is used to insert content into a file. so..**`echo "107" > 'part1.txt'`**
+               mv “filename” “path/to/new/file/location”
+
+*Command: touch*-The touch command allows you to create any type of file, but it’s blank. After you create the blank file.
+                 so **touch part1.txt** 
+*Command: echo*-is used to insert content into a file. so..
+                   **`echo "107" > 'part1.txt'`**
 
 
 **Command: rmdir**-Remove an empty directory
