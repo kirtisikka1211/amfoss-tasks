@@ -2,7 +2,7 @@
 
 ## Why we must choose you?
 
-Although I stepped in the world of Coding a few months back,I have developed a zeal to learn in more depth and the thrill of getting an idea and impelementing it to action is almost the best satisfaction  anyone can experience.If I get a chance ,I assure to work enthusiastically and give the best in all the tasks assigned ,meeting the deadlines well in time
+Although I stepped in the world of Coding a few months back,I have developed a zeal to learn in more depth and the thrill of getting an idea and impelementing it to action is almost the best satisfaction anyone can experience.If I get a chance, I assure to work enthusiastically and give the best in all the tasks assigned, meeting the deadlines well in time.
 
 
 ## What is your plan for the next 6 months?
