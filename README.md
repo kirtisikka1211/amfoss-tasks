@@ -21,7 +21,7 @@ I am Kirti Sikka.I am a fresher at  Amrita School of Computing(CSE -AI)
 | [Task-08](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-08)        | Internet Explorer |Compeleted|
 | [Task-09](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-09)      | Kryptoscrapper    |Compeleted|
 |[Task-10](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-10)        | Cs50              |Compeleted|
-| Task-11       | Figma           |Not Attempted|
+| [Task-11](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task11)       | Figma           |Not Attempted|
  | Task-12       | Bunny Heist          |Not Attempted|
 | Task-13       | Football Counter           |Not Attempted|
 | [Task-14](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-14)       | Bandit            |Completed|
@@ -29,7 +29,7 @@ I am Kirti Sikka.I am a fresher at  Amrita School of Computing(CSE -AI)
 
 
 ## **About My Tasks**
-The tasks were structured to cover many fields.Honestly,I found some of the tasks tough and some way easy.Though I was not able to complete all of them,but I got an exposure to different areas that I was not even aware of and found my hidden interest in programming.At the end ,I would just like to say it was a excellent opportunity to learn more.
+The tasks were structured to cover many fields.Honestly,I found some of the tasks tough and some way easy.Though I was not able to complete all of them,but I got an exposure to different areas that I was not even aware of and found my hidden interest in programming.At the end ,I would just like to say it was a excellent opportunity to learn more.It helped me improve my googling skills.
 
 
 ## **Who am I?**
