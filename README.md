@@ -21,7 +21,7 @@ I am Kirti Sikka.I am a fresher at  Amrita School of Computing(CSE -AI)
 | [Task-08](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-08)        | Internet Explorer |Compeleted|
 | [Task-09](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-09)      | Kryptoscrapper    |Compeleted|
 |[Task-10](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-10)        | Cs50              |Compeleted|
-| [Task-11](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task11)       | Figma           |Not Attempted|
+| [Task-11](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task11)       | Figma           | Compeleted two pages|
  | Task-12       | Bunny Heist          |Not Attempted|
 | Task-13       | Football Counter           |Not Attempted|
 | [Task-14](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-14)       | Bandit            |Completed|
