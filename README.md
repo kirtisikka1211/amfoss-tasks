@@ -25,7 +25,7 @@ I am Kirti Sikka.I am a fresher at  Amrita School of Computing(CSE -AI)
  | Task-12       | Bunny Heist          |Not Attempted|
 | Task-13       | Football Counter           |Not Attempted|
 | [Task-14](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-14)       | Bandit            |Completed|
-| Task-15       | Project Euler          |one Question Done|
+| [Task-15 ](https://github.com/kirtisikka1211/amfoss-tasks/tree/main/task-15)      | Project Euler          |one Question Done|
 
 
 ## **About My Tasks**
