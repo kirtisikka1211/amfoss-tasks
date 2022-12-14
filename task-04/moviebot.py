@@ -89,13 +89,11 @@ def getMovie(message): #[[8,9],[]] lst[0]=[8,9] . lst[0][0]=8 type
   
 @bot.message_handler(func=lambda message: botRunning, commands=['export'])
 def getList(message):
-    # buf = io.BytesIO()
+
     bot.reply_to(message, 'Generating file...')
-    # filename = '/Users/kirtisikka/Documents/tasks/task-04/csv.csv'
-    # context.bot.send_document['chat.id, document=open('csv.csv', 'rb'), filename="csv.csv"
+    
     bot.send_document(message.chat.id, document=open('moviecsv.csv', 'rb'))
-    # buf.name = f'csv.csv'
-    # bot.send_document(message.chat.id, document=buf)
+  
 
 # send the buffer as a regular file
  
