@@ -40,10 +40,7 @@ def helpProvider(message):
 @bot.message_handler(func=lambda message: botRunning, commands=['movie'])
 def getMovie(message): #[[8,9],[]] lst[0]=[8,9] . lst[0][0]=8 type
     bot.reply_to(message, 'Getting movie info...')
-# def get_data(MOVIE):
-#     query ='http://www.omdbapi.com/?apikey=d251c3c9&t={$MOVIE}'
-#     response= requests.get(query)
-    
+
     
     a= message.text
     movie=a[7:]
