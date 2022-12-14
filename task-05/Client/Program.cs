@@ -6,6 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 
+
 // check whether all required namespaces are imported
 
 public class SynchronousSocketClient
