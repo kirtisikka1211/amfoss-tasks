@@ -8,3 +8,7 @@ new topics in things I  thought  I knew.Although I took more time   than expecte
 
 
 
+
+
+https://user-images.githubusercontent.com/116485331/207513964-45ca9af2-c2c2-4441-9bff-2f07951da7a3.mp4
+
